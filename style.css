@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+}
+
+header {
+  color: antiquewhite;
+  text-align: center;
+  background-color: rgba(20, 81, 139, 0.7254901961);
+  padding: 28px 56px;
+}
+header img {
+  width: 30%;
+  border-radius: 100%;
+}
+
+.area1 {
+  margin: 56px;
+}
+.area1 .title {
+  display: flex;
+  padding: 0 16px;
+  border-bottom: 1.5px solid #000;
+}
+.area1 .title .sub {
+  font-size: 20px;
+  margin-top: 26px;
+  margin-left: 10px;
+  color: rgba(20, 81, 139, 0.7254901961);
+}
+.area1 .information {
+  padding: 16px;
+}
+
+.area2 {
+  color: antiquewhite;
+  text-align: center;
+  padding: 8px 56px;
+  background-color: rgba(20, 81, 139, 0.7254901961);
+}
+.area2 .title {
+  border-bottom: 1.5px solid antiquewhite;
+}
+
+.area3 {
+  padding: 16px 56px;
+}
+.area3 li {
+  font-size: 20px;
+  margin-top: 8px;
+}
+.area3 h3 {
+  margin: 0;
+  color: rgba(20, 81, 139, 0.7254901961);
+}
+.area3 .title {
+  display: flex;
+  padding: 0 16px;
+  border-bottom: 1.5px solid #000;
+}
+.area3 .title .sub {
+  font-size: 20px;
+  margin-top: 26px;
+  margin-left: 10px;
+  color: rgba(20, 81, 139, 0.7254901961);
+}
+.area3 .detail {
+  font-size: 12px;
+  padding: 0 24px;
+}/*# sourceMappingURL=style.css.map */
